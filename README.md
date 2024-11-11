@@ -153,8 +153,8 @@ I found that Botium Toys will need to adhere to the following standards:
 
 TO: IT Manager, Stakeholders
 
-FROM: Chris Jabbour\
-DATE: 06/09/2023\
+FROM: Brandon Barrett\
+DATE: 11/10/2024\
 SUBJECT: Internal IT Audit Findings and Recommendations
 
 Dear Colleagues,
