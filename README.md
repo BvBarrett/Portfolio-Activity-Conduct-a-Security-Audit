@@ -244,9 +244,9 @@ Integrating an IDS and AV software into current systems will give the ability to
 To secure assets at Botium Toys' phyiscal location, locks and CCTV should be used to secure physical assets and to monitor for potential threats. Having a time-controlled safe, adequate lighting, and signage indicating alarm service provider will further improve Botium Toys' security posture.
    
 # Conclusion  <a name="conclusion">
- This concludes my mock security audit writeup, I hope you found it useful and enlightening as I have. If there is any constructive feedback or  suggestions to improve and include, just let me know. 
+ This concludes my mock security audit writeup, I hope you found it as useful and insightful as I have. If there is any constructive feedback or suggestions to improve and include, don't hesitate to connect with me. 
 
-**Self-Evaluation**: I did mostly well in determining what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try. I really loved the challenge of this assignment and tested what I have learned in my studies and hands-on learning. 
+**Self-Evaluation**: I did well in determining what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try. I really loved the challenge of this assignment and tested what I have learned in my studies and hands-on learning. 
 
 **Lessons learned**: 
    
